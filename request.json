@@ -1,0 +1,10 @@
+{"document":{
+"type": "PLAIN_TEXT",
+"content": The explanatory notes are 87 pages in length. The notes contain 51 figures and 37 tables.
+The goal of degree work was to investigate the most effective classification methods for creating an automated procedure for diagnosing breast tumors based on precedents and assess the effectiveness of selected methods. Based on these results, develop a software application for the diagnosis of breast tumors.
+In this work recommendations are given for developing an automated procedure for diagnosing breast tumors using metric data taken from digitized images of cell nuclei. An evaluation of the effectiveness of the methods was carried out and the optimal one was chosen to solve this problem.
+The results of the activities implemented in the "Center-C" (the act of introduction of 25.05.2017).
+In total, 49 references were cited and examined in the literature review.
+Keywords: diagnostics, machine learning, classification, classifier, naive Bayes classifier, k-nearest neighbors classifier, support vector machine.},
+"encodingType": "UTF8"
+}
